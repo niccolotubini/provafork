@@ -1,0 +1,8 @@
+CD ha creato il file
+
+CD ha modificato il file dal repository remoto.
+
+CD ha modificato dal locale.
+
+CD ha modificato x2 il file da remoto.
+
